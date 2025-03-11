@@ -1,6 +1,6 @@
 # Chorddiagramm
-Autor: Fabian Reinwald (IDG RLP)
-Stand: 11.2024
+Autor: Fabian Reinwald (IDG RLP), Dr. Sabine Lang (KR-Sachsen) 
+Stand: 03.2025
 
 # Infos vorweg:
 ## chorddiag
